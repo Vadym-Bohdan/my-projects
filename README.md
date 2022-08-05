@@ -14,3 +14,9 @@ Accidentally, I came across the "POWER BI ANALYTICS CHALLENGE" from CASERS. The 
 3) Visualize the accumulated volume of Grains to Ports for 2019/20 - 2020/21.
 
 4) Visualization of the directions of transportation in the ports from July to December 2021
+
+In the attached documents you can find following files:
+
+1) Raw data: XLSX files "Stations" and "Freight data".
+2) Challenge description: PDF file "Case._Power_BI_Analytics_Challenge".
+3) My Report: PBIX file "Kernel"
